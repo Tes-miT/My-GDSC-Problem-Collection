@@ -7,3 +7,6 @@ This repository contains all the problems that I encountered and had to solve ei
 I hope this repository helps you get the solutions to particular problems that you might be looking for or give you an insight of my learning path.
 
 I plan on documenting my learning path through various repositories, which will come handy as evidence to solving problems and will allow me to jump back in the past to reconcile my journey and upgrade my then amateur code.
+
+## NOTE
+Most of these were done around November-December but they are uploaded late as I have started learning github recently.
