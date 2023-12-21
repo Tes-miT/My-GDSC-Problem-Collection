@@ -1,0 +1,8 @@
+year = int(input("Please enter your year : ")) #ask the user for input
+if year % 400 == 0 or year % 100 != 0 and year % 4 == 0:
+    '''1)it have to be divisible by 400
+       2)it has to be divisible by 4 but not a multiple of 100
+    '''
+    print("\nEntered year is a leap year")#Printing out that it is a leap year
+else:
+    print("\nEntered year is not a leap year")#Printing out that it is not a leap year
