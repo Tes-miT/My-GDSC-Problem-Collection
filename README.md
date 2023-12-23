@@ -2,7 +2,7 @@
 Greetings there viewer!
 
 Glad to see you swing by.
-This repository contains all the problems that I encountered and had to solve either live or as homework, during my time of attending the '100 Days of Code' event in the GDSC (Goggle Development Student Club) of my university.
+This repository contains all the problems that I encountered and had to solve either live or as homework, during my time of attending the '100 Days of Code' event in the GDSC (Google Development Student Club) of my university.
 
 I hope this repository helps you get the solutions to particular problems that you might be looking for or give you an insight of my learning path.
 
